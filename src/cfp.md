@@ -51,7 +51,7 @@ Paper submission will is [via HotCRP][hotcrp].
 
 [pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
-[hotcrp]: https://www.cs.cornell.edu/conferences/wax2019/
+[hotcrp]: https://www.cs.cornell.edu/conferences/wax2020/
 
 #### Reviewed talks
 

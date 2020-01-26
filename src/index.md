@@ -15,7 +15,7 @@ Approximate computing is a research direction that asks how computer systems can
 
 We encourage all papers that introduce system-level approximation, or use software and/or hardware systems to manage the tradeoffs between accuracy and performance. We particularly seek contributions that apply system-level approximations to the emerging domains, such as machine learning and autonomous systems. We plan to have sessions for position (work-in-progress) and recently published papers. 
 
-The deadline for submitting the papers is February 10, 2017. 
+The deadline for submitting the papers is February 10, 2020. 
 
 See the [call for participation][cfp] for more details.
 
