@@ -79,7 +79,7 @@ The date for the decisions is February 17, 2020.
 
 ### Program Committee
 
-The program chairs for WAX 2020 are [Sasa Misailovic (UIUC)][sasa] and [Joshua San Miguel (UWisconsin)][josh].
+The program chairs for WAX 2020 are [Sasa Misailovic (UIUC)][sasa] and [Joshua San Miguel (UW--Madison)][josh].
 The program committee consists of:
 
 - [TBD](http://),
