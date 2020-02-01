@@ -82,10 +82,12 @@ The date for the decisions is February 17, 2020.
 The program chairs for WAX 2020 are [Sasa Misailovic (UIUC)][sasa] and [Joshua San Miguel (UW--Madison)][josh].
 The program committee consists of:
 
-- [TBD](http://),
-  Institute
-- [TBD](http://),
-  Institute
+- [Nandhini Chandramoorthy](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Nandhini.Chandramoorthy), IBM
+- [Alexandra Ferreron](http://webdiis.unizar.es/~ferreron/), Google
+- [Yuko Hara-Azumi](https://sites.google.com/site/yukoharaazumi/), Tokyo Institute of Technology
+- [Younghyun Kim](https://wisest.ece.wisc.edu/staff/kim-younghyun/), University of Wisconsin--Madison
+- [Mieszko Lis](http://mieszko.ece.ubc.ca/), University of British Columbia
+- [Jack Sampson](http://www.cse.psu.edu/~jms1257/), Pennsylvania State University
 
 [sasa]: http://misailo.cs.illinois.edu/
 [josh]: https://jsm.ece.wisc.edu/ 
